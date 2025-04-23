@@ -1,6 +1,28 @@
 # play_navigation
 
-A new Flutter project.
+Login
+
+<img src="https://github.com/user-attachments/assets/50412b27-87da-44e1-90af-4d4fa4cc50b5" height="500" />
+
+
+Register
+
+<img src="https://github.com/user-attachments/assets/f9f138a7-2072-4f84-931d-672d2a90412b" height="500" />
+
+
+Home
+
+<img src="https://github.com/user-attachments/assets/57dfe594-0a67-4bda-afeb-6f03a9e280c7" height="500" />
+
+
+Order
+
+<img src="https://github.com/user-attachments/assets/9a1e5b2a-74b6-40fb-a4eb-45a2f656246b" height="500" />
+
+
+Detail Order
+
+<img src="https://github.com/user-attachments/assets/e8cd7084-b2af-4b87-886b-79c833f77627" height="500" />
 
 ## Getting Started
 
