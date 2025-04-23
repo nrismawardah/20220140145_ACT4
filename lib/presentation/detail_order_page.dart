@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:play_navigation/presentation/home_page.dart';
+
 
 class DetailOrderPage extends StatelessWidget {
   final String makanan;
   final String minuman;
-  final int jumlahMakanan;
-  final int jumlahMinuman;
+  final String jumlahMakanan;
+  final String jumlahMinuman;
   final int totalHarga;
 
   const DetailOrderPage({
@@ -14,7 +16,7 @@ class DetailOrderPage extends StatelessWidget {
     required this.jumlahMakanan,
     required this.jumlahMinuman,
     required this.totalHarga,
-    });
+  });
 
   @override
   Widget build(BuildContext context) {
