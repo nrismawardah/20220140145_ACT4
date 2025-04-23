@@ -13,6 +13,8 @@ class _OrderPageState extends State<OrderPage> {
   final TextEditingController jumlahMakananController = TextEditingController();
   final TextEditingController jumlahMinumanController = TextEditingController();
 
+  int totalHarga = 0;
+
   @override
   Widget build(BuildContext context) {
     return const Placeholder();
